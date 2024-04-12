@@ -1,0 +1,69 @@
+---
+layout:     post
+title:      MarkDown学习
+subtitle:   第一章
+date:       2024-04-12
+author:     XLX
+header-img: img/post-bg-desk.jpg
+catalog: true
+tags:
+    - MarkDown
+
+---
+
+
+![ReactiveCocoa进阶思维导图](https://ww3.sinaimg.cn/large/006y8lVagw1fbgye3re5xj30je0iomz8.jpg)
+# MarkDown学习
+
+
+## Markdown 基本语法
+Markdown是一种轻量级标记语言，排版语法简洁，让人们更多地关注内容本身而非排版。它使用易读易写的纯文本格式编写文档，可与HTML混编，可导出 HTML、PDF 以及本身的 .md 格式的文件。因简洁、高效、易读、易写，Markdown被大量使用，如Github、Wikipedia、简书等。
+
+## Markdown 标题语法
+要创建标题，请在单词或短语前面添加# 。# 的数量代表了标题的级别。  
+例如：
+# （#Heading level 1）
+## （##Heading level 2）
+### （###Heading level 3）
+#### （####Heading level 4）
+##### （#####Heading level 5）
+###### （######Heading level 6）
+
+## Markdown 段落语法
+要创建段落，请使用空白行将一行或多行文本进行分隔。
+例如：I really like using Markdown.
+
+I think I'll use it to format all of my documents from now on.
+
+## Markdown 换行语法
+在一行的末尾添加两个或多个空格，
+然后按回车键,即可创建一个换行。
+
+## Markdown 强调语法
+通过将文本设置为粗体或斜体来强调其重要性。
+
+#### 粗体（Bold）
+要加粗文本，请在单词或短语的前后各添加两个星号（asterisks）或下划线（underscores）。如需加粗一个单词或短语的中间部分用以表示强调的话，请在要加粗部分的两侧各添加两个星号（asterisks），**中间不要带空格**。
+例如：I just love **bold text**.
+
+#### 斜体（Italic）
+要用斜体显示文本，请在单词或短语前后添加一个星号（asterisk）或下划线（underscore）。要斜体突出单词的中间部分，请在字母前后各添加一个星号。
+例如：Italicized text is the *cat's meow*.
+
+#### 粗体（Bold）和斜体（Italic）
+要同时用粗体和斜体突出显示文本，请在单词或短语的前后各添加三个星号或下划线。要加粗并用斜体显示单词或短语的中间部分，请在要突出显示的部分前后各添加三个星号，**中间不要带空格**。
+例如：This text is ***really important***.
+
+## Markdown 引用语法
+要创建块引用，请在段落前添加一个 > 符号。
+>Dorothy followed her through many of the beautiful rooms in her castle.
+we found it very difficult to concentrate on the spell.
+- **嵌套块引用**
+块引用可以嵌套。在要嵌套的段落前添加一个 >> 符号。
+
+
+
+
+
+
+>最后附上GitHub：<https://github.com/xlx2>
